@@ -27,5 +27,3 @@ All values shoul be entered within typical string-quotes, apart from the timeout
 - libp2p-kademlia DHT for peer discovery and publishing / reading records
 - libp2p-mdns for peer discovery within a local network
 - implementation of the libp2p-request-response protocol for custom Request/Response Messages
-
-
